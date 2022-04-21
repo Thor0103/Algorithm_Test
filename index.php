@@ -24,7 +24,6 @@
             <input placeholder="Ví dụ: 1 2 3 4 5" type="text" name="array">
             <input type="submit" value="Tìm">
         </form>
-   
     <p>
         <?php
             if ($_SERVER['REQUEST_METHOD'] == "POST") {
